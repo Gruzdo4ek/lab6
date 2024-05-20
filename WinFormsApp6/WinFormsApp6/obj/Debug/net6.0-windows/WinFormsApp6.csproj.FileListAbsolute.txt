@@ -1,0 +1,17 @@
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+D:\Политех\2 курс\ТП\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
